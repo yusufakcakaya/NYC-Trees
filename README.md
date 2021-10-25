@@ -15,7 +15,7 @@ The Department of Environmental Conservation, from New York City, has recently m
 - Pull requests are welcome.
 - or ```git clone https://github.com/yusufakcakaya/NYC-Trees.git```
 
-- Before the pull the repo it can be pretty better to download the .csv file file frim the url. Because the data set has many data. So, it is more than 200MB :)
+- Before the pull the repo it can be pretty better to download the .csv file  from the url. Because the data set has many data. So, it is more than 200MB :)
   - URL to dataset : (https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh)
 
 ## Repo Architecture 
